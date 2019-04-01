@@ -83,8 +83,8 @@ interests = [
 
 +++
 
-As an associate at Innosight, I help Fortune 500 companies identify, prioritize, and pursue growth opportunities during periods of rapid external change. Innosight seeks to drive meaningful insights by applying our unique lenses--disruptive innovation theory, jobs to be done, growth factory, and dual transformation--to client problems.
+As an associate at Innosight, I helped Fortune 500 companies identify, prioritize, and pursue growth opportunities during periods of rapid external change. Innosight seeks to drive meaningful insights by applying our unique lenses--disruptive innovation theory, jobs to be done, growth factory, and dual transformation--to client problems.
 
-During my time at Innosight I have gained experience across industries spanning high-tech, healthcare, and industrial settings. In addition, to client work, I have published articles exploring aspects of corporate strategy (Harvard Business Review, IndustryWeek).
+During my time at Innosight I gained experience across industries spanning high-tech, healthcare, and industrial settings. In addition, to client work, I have published articles exploring aspects of corporate strategy (Harvard Business Review, IndustryWeek).
 
 I graduated summa cum laude with a concentration in computational finance from Babson College. Expanding on my interest in commercializing technology, I authored a honors thesis exploring methods to stimulate space exploration with private investment.
