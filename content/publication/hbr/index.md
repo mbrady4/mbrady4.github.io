@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Building a Direct-to-Consumer Strategy Without Alienating Your Distributors"
-#date = "2019-12-14T00:00:00"
+date = "Dec 14, 2018"
 
 # View.
 #   1 = List
@@ -20,4 +20,6 @@ links = [{name = "Read the Full Essay on Harvard Business Review", url = "https:
 image = "/featured_image.jpg"
 caption = ""
 +++
+Authored in collaboration with colleagues, the essay explores how companies can take advantage of digital technologies to build direct-to-consumer relationships without disrupting their existing distribution.
+
 Companies increasingly use digital technologies to circumvent distributors and enter into direct relationships with their end-users. These relationships can create efficient new sales channels and powerful feedback mechanisms or unlock entirely new business models. But they also risk alienating the longstanding partners that companies count on for their core business.
