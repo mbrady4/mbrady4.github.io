@@ -13,7 +13,7 @@ view = 4
 #authors = ['Michael Brady', 'Ned Calder', Shahriar Parvarandeh' ]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Read the Full Essay on Harvard Business Review", url = "https://hbr.org/2018/12/building-a-direct-to-consumer-strategy-without-alienating-your-distributors"}]
+links = [{name = "Full essay available at Harvard Business Review", url = "https://hbr.org/2018/12/building-a-direct-to-consumer-strategy-without-alienating-your-distributors"}]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
