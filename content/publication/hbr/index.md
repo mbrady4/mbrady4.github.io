@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Building a Direct-to-Consumer Strategy Without Alienating Your Distributors"
-date = "2019-12-14T00:00:00"
+#date = "2019-12-14T00:00:00"
 
 # View.
 #   1 = List
