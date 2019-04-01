@@ -1,4 +1,5 @@
 +++
+featured = true
 title = "HBR: Building a Direct-to-Consumer Strategy Without Alienating Your Distributors"
 
 # View.
