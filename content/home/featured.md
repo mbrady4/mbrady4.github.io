@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publication"
-subtitle = ""
+subtitle = "The Full essay is available at <a href='https://hbr.org/2018/12/building-a-direct-to-consumer-strategy-without-alienating-your-distributors'>Harvard Business Review's website</a>."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
