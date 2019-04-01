@@ -9,7 +9,7 @@ date = 2019-12-14T00:00:00
 #   4 = Citation
 view = 4
 
-authors = ['Michael Brady', 'Ned Calder', Shahriar Parvarandeh' ]
+#authors = ['Michael Brady', 'Ned Calder', Shahriar Parvarandeh' ]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Read the Full Essay on Harvard Business Review", url = "https://hbr.org/2018/12/building-a-direct-to-consumer-strategy-without-alienating-your-distributors"}]
