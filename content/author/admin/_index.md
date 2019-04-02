@@ -65,9 +65,9 @@ interests = [
 #  link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
-#  icon = "linkedin"
-#  icon_pack = "fab"
-#  link = "https://www.linkedin.com/in/mbrady4/"
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/mbrady4/"
 
 [[social]]
   icon = "github"
