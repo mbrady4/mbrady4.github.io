@@ -55,6 +55,11 @@ interests = [
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/mbrady4/"
+
+[[social]]
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:mikebrady44@gmail.com"  # For a direct email link, use "mailto:test@example.org".
@@ -63,11 +68,6 @@ interests = [
 #  icon = "twitter"
 #  icon_pack = "fab"
 #  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/mbrady4/"
 
 [[social]]
   icon = "github"
