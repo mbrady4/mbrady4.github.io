@@ -1,6 +1,10 @@
- external_link = "https://medium.com/@mikebrady44/peak-kickstarter-35dc7f242a2a"
+external_link = "https://medium.com/@mikebrady44/peak-kickstarter-35dc7f242a2a"
+title = "Kickstarter Campaign Analysis"
+summary = "A data-driven exploration of 182k unique Kickstarter campaigns explored these questions and identified the characteristics of successful Kickstarter campaigns."
+featured= true
 
 +++
+
 title = "Kickstarter Campaign Analysis"
 date = 2019-03-14
 
