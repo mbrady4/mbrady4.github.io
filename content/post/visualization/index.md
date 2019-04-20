@@ -24,16 +24,19 @@ There are myriad routes to creating compelling visualizations with countless tex
 Tufte continues to list a number of guiding principles that support the ideal of presenting cmoplex ideas with clarity, precision, and efficiency. Tranlating Tufte's ideals to practice I use the following tactical list as a baseline checklist for creating presentable visualizations: 
 
 **The data**
+
 - Place data labels inline whenever possible (avoid legends)
 - Match the data's color and label
 - Ensure it is easy to compare across data sets (horitzontal bars > vertical bars)
 
 **The axes**
+
 - Label x and y axes with a description 
 - Include units in the x and y axis tick labels
 - Avoid non-zero y-axis minimums (or x-axis if horizontal bars)
 
 **The figure**
+
 - Adopt a descriptive title for the chart
 - Create high color contrast to draw attention to the data
 - Ensure the visualization can stand on its own
@@ -142,6 +145,7 @@ ax.text(x=-4,
 ### The Data
 
 At this point it is helpful to recall the three rules for presentable data: 
+
 - Place data labels inline whenever possible (avoid legends)
 - Match the data's color and label (if applicable)
 - Ensure it is easy to compare across data sets (horitzontal bars > vertical bars)
@@ -247,9 +251,9 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](featured.png)
 
 
-## Wrapping Up
+### Wrapping Up
 
 In this essay, we covered the basic principles of creating visualizations. Further, we experimented with a process to quickly build a minimum viable visualization and then, if necessary, use our principles to transform our minimum viable visuallization into a presentable visualization. 
