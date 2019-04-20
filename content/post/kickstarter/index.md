@@ -10,7 +10,7 @@ reading_time = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-summary = "A data-driven exploration of 182k unique Kickstarter campaigns explored these questions and identified the characteristics of successful Kickstarter campaigns."
+summary = "A data-driven exploration of 182k unique Kickstarter campaigns explores Kickstarter's impact in 2019 and indentifies the characteristics of successful Kickstarter campaigns."
 +++
 Has Kickstarter Peaked? What does crowd-funding on Kickstarter look like in 2019?
 
