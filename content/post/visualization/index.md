@@ -1,7 +1,19 @@
++++
+title = "Creating Presentable Visualizations With Matplotlib"
+subtitle = "Using simple principles to move from minimum viable to presentable visualizations"
+
+date = 2019-04-20T00:00:00
+lastmod = 2019-04-20T00:00:00
+draft = false
+reading_time = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["admin"]
+
+summary = "An introduction to my basic visualization principles. The principles are applied in a two step process. First, quickly build a minimum viable visualization. Second, if necessary, transform the minimum viable visuallization into a presentable visualization. "
++++
 
 # Creating Presentable Visualizations With Matplotlib
-
-
 
 Visualizations are an important tool for communicating data-driven insights. A strong insight paired with an appropriately formatted visauzliation often resonates with audiences far substantially more than raw data alone. The importance of visualizations is increased when communicating insights to stakeholders (e.g., executives, partners) beyond the data science community.
 
@@ -240,4 +252,4 @@ plt.show()
 
 ## Wrapping Up
 
-In this essay, we covered the basic principles of creating principles visualizations. Further, we experimented with a process to quickly build a minimum viable visualization and then, if necessary, use our principles to transform our minimum viable visuallization into a presentable visualization. 
+In this essay, we covered the basic principles of creating visualizations. Further, we experimented with a process to quickly build a minimum viable visualization and then, if necessary, use our principles to transform our minimum viable visuallization into a presentable visualization. 

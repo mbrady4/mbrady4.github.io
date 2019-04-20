@@ -1,5 +1,5 @@
 +++
-title = "Kickstarter Campaign Analysis"
+title = "Posts"
 
 # View.
 #   1 = List
@@ -9,11 +9,5 @@ view = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "/featured.png"
-caption = "A data-driven exploration of 182k unique Kickstarter campaigns explored these questions and identified the characteristics of successful Kickstarter campaigns."
+image = ""
 +++
-Has Kickstarter Peaked? What does crowd-funding on Kickstarter look like in 2019?
-
-A data-driven exploration of 182k unique Kickstarter campaigns explored these questions and identified the characteristics of successful Kickstarter campaigns.
-
-The analysis is summarized in a brief report on medium.
