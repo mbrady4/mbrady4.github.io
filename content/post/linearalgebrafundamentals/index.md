@@ -8,9 +8,7 @@ reading_time = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M. W. Brady"]
-
 +++
-# Linear Algebra Fundamentals
 
 [Linear algebra (numpy.linalg) - NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.linalg.html)
 
