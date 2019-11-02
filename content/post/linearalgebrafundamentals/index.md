@@ -1,5 +1,5 @@
 +++
-title = "Linear Algebra Fundamentals"
+title = "Linear algebra fundamentals for machine learning"
 
 date = 2019-10-22T00:00:00
 lastmod = 2019-10-22T00:00:00
@@ -7,10 +7,8 @@ draft = false
 reading_time = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M. W. Brady"]
+authors = ["Michael W. Brady"]
 +++
-
-[Linear algebra (numpy.linalg) - NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.linalg.html)
 
 # Dot Product
 
@@ -261,3 +259,6 @@ Gaussian Elimination takes a matrix and converts it to row-echelon form by doing
 2) You can multiply entire rows by scalars
 
 3) You can add/subtract rows from each other
+
+# Additional Resource:
+[Linear algebra (numpy.linalg) - NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.linalg.html)
