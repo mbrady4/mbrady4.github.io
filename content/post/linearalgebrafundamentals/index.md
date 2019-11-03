@@ -19,7 +19,7 @@ $$v_1 = (1, 2, 3) \\ v_2 = (4,5,6) \\ v_1 \cdot v_2 = (1*4) + (2*5) + (3*6) = 32
 The dot product of a vector and itself can be rewritten as that vector times the transpose of itself. 
 
 ### Python Implentation
-
+```
     #dependencies
     import numpy as np
     
@@ -47,7 +47,7 @@ The dot product of a vector and itself can be rewritten as that vector times the
             return temp
         else:
             return 'Error: Vector length is unequal'
-
+```
 # Matrix Multiplication
 
 **For matrix multiplication to work the first matrix must have the same number of columns as the second matrix has rows.**  
@@ -59,14 +59,14 @@ For each value in the output matrix, (*i, j*), take the dot product of the *i*th
 ![](Untitled-4a63f35d-e057-4689-9c0b-f69df5e6b01b.png)
 
 Matrix multiplication is not commutative (order matters)!
-
+```
 ### Python Implementation
 
     # Dependencies
     import numpy as np
     
     cd = np.matmul(C,D)
-
+```
 # The Determinant
 
 The determinant can be thought of the scaling factor of the linear transformation described by the matrix. This is equivalent to the volume of the n-dimensional parallelepiped spanned by the columns or row vectors of the matrix. See this video for a crisp [visualization](https://www.youtube.com/watch?v=Ip3X9LOh2dk&vl=en). 
@@ -80,7 +80,7 @@ Source: [Shodor](https://www.shodor.org/unchem/advanced/matrix/)
 Beyond 2x2 matrices, the calculation becomes increasingly verbose. 
 
 ### Python Implementation
-
+```
     # Dependencies
     from numpy import linalg
     
@@ -91,7 +91,7 @@ Beyond 2x2 matrices, the calculation becomes increasingly verbose.
     
     # Calculate the determinant
     linalg.det(J)
-
+```
 # Scalars
 
 A single number (can be any real number), often used to 'scale' vectors or matrices by multiplying each vector/matrix value by the scalar.
@@ -101,7 +101,7 @@ A single number (can be any real number), often used to 'scale' vectors or matri
 Source: [Khan Academy](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwju85zF7-3hAhUSVN8KHVGxDpQQjB16BAgBEAQ&url=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Fprecalculus%2Fprecalc-matrices%2Fmultiplying-matrices-by-scalars%2Fa%2Fmultiplying-matrices-by-scalars&psig=AOvVaw1okvoxO5y1ahONbGMbNN6c&ust=1556371960987853)
 
 ### Python Implementation
-
+```
     # Dependencies
     import numpy as np
     
@@ -110,7 +110,7 @@ Source: [Khan Academy](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=im
     
     # Scale vector a by 5 
     b = np.multiply(a, 5)
-
+```
 # Norm of a Vector
 
 The norm of a vector is simply that length of the vector. The norm is denoted by wrapping a vector in double pipes:
@@ -124,7 +124,7 @@ $$||v|| =  \sqrt{v_{1}^2 + v_{2}^2 + \ldots + v_{n}^2} \\ \vec{a} =  \begin{bmat
 The square of the norm of a vector is equivalent to the dot product of a vector with itself
 
 ### Python Implementation
-
+```
     # With numpy
     from numpy import linalg
     
@@ -147,7 +147,7 @@ The square of the norm of a vector is equivalent to the dot product of a vector 
         for i in v: 
            num += i**2
         return math.sqrt(num)
-
+```
 # Inverse
 
 The inverse is the reciprocal of the matrix used to generate it. Just like 1/N is the reciprocal of N. 
@@ -168,7 +168,7 @@ Two conditions must be true for a matrix to be invertible:
 Square matrices with determinants equal to zero are known as 'singular.' One reason a matrix  would be singular is that one column is a multiple of another column (and thus linearly dependent). 
 
 ### Python Implementation
-
+```
     # Dependencies
     import numpy as np
     from numpy import linalg
@@ -178,7 +178,7 @@ Square matrices with determinants equal to zero are known as 'singular.' One rea
     
     # Prove that the inverse times the matrix will produce an identity matrix
     np.matmul(J, Jinv)
-
+```
 # Transpose
 
 A transposed matrix is one whose rows and columns are swapped relative to the original matrix. 
@@ -186,12 +186,12 @@ A transposed matrix is one whose rows and columns are swapped relative to the or
 $$  B =  \begin{bmatrix}   1 & 2 & 3 \\   4 & 5 & 6 \end{bmatrix}   \qquad   B^{T} =    \begin{bmatrix}   1 & 4 \\   2 & 5 \\   3 & 6   \end{bmatrix}$$
 
 ### Python Implementation
-
+```
     # Dependencies
     import numpy as np
     
     Ft = F.transpose()
-
+```
 # Orthogonality
 
 Orthogonality can be thought of as perpendicularity. Thus two vectors that are perpendicular to one another are orthogonal. 
@@ -236,7 +236,7 @@ The rank of a matrix is the dimension of the vector space spanned by its columns
 Just because a matrix has a certain number of rows or columns (dimensionality) doesn't necessarily mean that it will span that dimensional space. Sometimes there exists a sort of redundancy within the rows/columns of a matrix (linear dependence) that becomes apparent when we reduce a matrix to row-echelon form via Gaussian Elimination.
 
 ### Python Implementation
-
+```
     # Dependencies
     from numpy import linalg
     
@@ -245,7 +245,7 @@ Just because a matrix has a certain number of rows or columns (dimensionality) d
                 [4,8,2]])
     
     linalg.matrix_rank(P)
-
+```
 # Gaussian Elimination
 
 Gaussian Elimination is a process that seeks to take any given matrix and reduce it down to "Row-Echelon form." 
