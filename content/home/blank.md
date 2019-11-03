@@ -8,8 +8,11 @@ headless = true  # This file represents a page section.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-| Linear Algebra  | Visualization | Predictive Modeling | Flask |
+
+# Notes on Machine Learning
+
+| Linear Algebra  | Visualization | Predictive Modeling | Data |
 |---|---|---|---|---|
-| <a href="https://www.mwbrady.com/post/linearalgebrafundamentals/">Fundamentals for ML</a>  |   |   |   |
+| [https://www.mwbrady.com/post/linearalgebrafundamentals/](Fundamentals for ML)  | [https://www.mwbrady.com/post/exploratorydataanalysis/](Exploratory Data Analysis)  | [https://www.mwbrady.com/post/scikitlearnmodels/](Buiding Models w/Sklearn)  |  [https://www.mwbrady.com/post/workingwithtextdata/](Working with text) |
 |   |   |   |   |
 |   |   |   |   |
