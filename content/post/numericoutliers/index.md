@@ -25,3 +25,9 @@ authors = ["Michael W. Brady"]
     app_train['DAYS_EMPLOYED'].replace({365243: np.nan}, inplace = True)
 
 [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+
+### Deleting outliers
+
+One approach is to delete data points that are extreme anomalies from the dataset by looking at scatterplots and targeting them explicitly: 
+
+    train = train.drop(train[(train['Feature']>4000) & (train['Target']<300000)].index)
