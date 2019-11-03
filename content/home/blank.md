@@ -12,7 +12,7 @@ headless = true  # This file represents a page section.
 # Notes on Machine Learning
 
 | Linear Algebra  | Visualization | Predictive Modeling | Data |
-|---|---|---|---|---|
+|---|---|---|---|
 | [Fundamentals for ML](https://www.mwbrady.com/post/linearalgebrafundamentals/)  | [Exploratory Data Analysis](https://www.mwbrady.com/post/exploratorydataanalysis/)  | [Buiding Models w/Sklearn](https://www.mwbrady.com/post/scikitlearnmodels/)  |  [Working with text](https://www.mwbrady.com/post/workingwithtextdata/) |
-|   |   |   |   |
-|   |   |   |   |
+|   |   |   |
+|   |   |   |
