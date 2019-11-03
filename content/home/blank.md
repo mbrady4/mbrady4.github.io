@@ -13,6 +13,6 @@ headless = true  # This file represents a page section.
 
 | Linear Algebra  | Visualization | Predictive Modeling | Data |
 |---|---|---|---|---|
-| [https://www.mwbrady.com/post/linearalgebrafundamentals/](Fundamentals for ML)  | [https://www.mwbrady.com/post/exploratorydataanalysis/](Exploratory Data Analysis)  | [https://www.mwbrady.com/post/scikitlearnmodels/](Buiding Models w/Sklearn)  |  [https://www.mwbrady.com/post/workingwithtextdata/](Working with text) |
+| [Fundamentals for ML](https://www.mwbrady.com/post/linearalgebrafundamentals/)  | [Exploratory Data Analysis](https://www.mwbrady.com/post/exploratorydataanalysis/)  | [Buiding Models w/Sklearn](https://www.mwbrady.com/post/scikitlearnmodels/)  |  [Working with text](https://www.mwbrady.com/post/workingwithtextdata/) |
 |   |   |   |   |
 |   |   |   |   |
