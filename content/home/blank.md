@@ -18,15 +18,15 @@ headless = true  # This file represents a page section.
 | [Working With Text Data](https://www.mwbrady.com/post/workingwithtextdata/) | [Ridge Regression](https://www.mwbrady.com/post/ridgeregression/) | [Generative Models](https://www.mwbrady.com/post/generativemodels/) | [Feature Selection](https://www.mwbrady.com/post/featureselection/) |
 | [Text as Vectors](https://www.mwbrady.com/post/textasvectors/) | [K-Means Clustering](https://www.mwbrady.com/post/kmeans/) | [Recurrent Neural Networks](https://www.mwbrady.com/post/recurrentneuralnetworks/) | [Interpretting Correlation](https://www.mwbrady.com/post/interprettingcorrelations/) |
 | [Encoding Categorical Data](https://www.mwbrady.com/post/encodingcategoricaldata/) | [Determining K w/The Elbow Method](https://www.mwbrady.com/post/elbowmethod/) | [Keras](https://www.mwbrady.com/post/keras/) | [Randomized Search](https://www.mwbrady.com/post/randomizedsearch/) |
-| [Importing Data](https://www.mwbrady.com/post/importingdata/) | [Decision Trees](https://www.mwbrady.com/post/decisiontrees/) | [](https://www.mwbrady.com/post/) | [Bias and Variance](https://www.mwbrady.com/post/biasandvariance/) |
-| [Column Datatypes](https://www.mwbrady.com/post/columndatatypes/) | [Random Forests](https://www.mwbrady.com/post/randomforests/) | [](https://www.mwbrady.com/post/) | [Classification Metrics](https://www.mwbrady.com/post/classificationmetrics/) |
-| [Numeric Outliers](https://www.mwbrady.com/post/numericoutliers/) | [Gradient Boosting](https://www.mwbrady.com/post/gradientboosting/) | []() | []() |
-| [Missing Numeric Values](https://www.mwbrady.com/post/missingnumericvalues/) | [Gradient Descent](https://www.mwbrady.com/post/gradientdescent/) | []() | **Linear Algebra** |
-| [Curse of Dimensionality](https://www.mwbrady.com/post/curseofdimensionality/) | [Document Classification](https://www.mwbrady.com/post/documentclassification/) | []() | [Linear Algebra Fundamentals](https://www.mwbrady.com/post/linearalgebrafundamentals/) |
-| [Feature Engineering](https://www.mwbrady.com/post/featureengineering/) | [Latent Dirichlet Allocation](https://www.mwbrady.com/post/latentdirichletallocation/) | []() | [Linear Projections](https://www.mwbrady.com/post/linearprojections/) |
-| [Imbalanced Classes](https://www.mwbrady.com/post/imbalancedclasses/) | [Cross Validation](https://www.mwbrady.com/post/crossvalidation/) | []() | [Linear Transformations](https://www.mwbrady.com/post/lineartransformations) |
-| [Standardizing Data](https://www.mwbrady.com/post/standardizingdata/) | [Modeling w/scikit-learn](https://www.mwbrady.com/post/scikitlearnmodels) | []() | [Functions](https://www.mwbrady.com/post/functions/) |
-| [Train Test Splits](https://www.mwbrady.com/post/traintestsplits/traintestsplits/) | []() | []() | []() |
+| [Importing Data](https://www.mwbrady.com/post/importingdata/) | [Decision Trees](https://www.mwbrady.com/post/decisiontrees/) | | [Bias and Variance](https://www.mwbrady.com/post/biasandvariance/) |
+| [Column Datatypes](https://www.mwbrady.com/post/columndatatypes/) | [Random Forests](https://www.mwbrady.com/post/randomforests/) | | [Classification Metrics](https://www.mwbrady.com/post/classificationmetrics/) |
+| [Numeric Outliers](https://www.mwbrady.com/post/numericoutliers/) | [Gradient Boosting](https://www.mwbrady.com/post/gradientboosting/) | | |
+| [Missing Numeric Values](https://www.mwbrady.com/post/missingnumericvalues/) | [Gradient Descent](https://www.mwbrady.com/post/gradientdescent/) | | **Linear Algebra** |
+| [Curse of Dimensionality](https://www.mwbrady.com/post/curseofdimensionality/) | [Document Classification](https://www.mwbrady.com/post/documentclassification/) | | [Linear Algebra Fundamentals](https://www.mwbrady.com/post/linearalgebrafundamentals/) |
+| [Feature Engineering](https://www.mwbrady.com/post/featureengineering/) | [Latent Dirichlet Allocation](https://www.mwbrady.com/post/latentdirichletallocation/) | | [Linear Projections](https://www.mwbrady.com/post/linearprojections/) |
+| [Imbalanced Classes](https://www.mwbrady.com/post/imbalancedclasses/) | [Cross Validation](https://www.mwbrady.com/post/crossvalidation/) | | [Linear Transformations](https://www.mwbrady.com/post/lineartransformations) |
+| [Standardizing Data](https://www.mwbrady.com/post/standardizingdata/) | [Modeling w/scikit-learn](https://www.mwbrady.com/post/scikitlearnmodels) |  | [Functions](https://www.mwbrady.com/post/functions/) |
+| [Train Test Splits](https://www.mwbrady.com/post/traintestsplits/traintestsplits/) |  |  |  |
 
 # Notes on Data Analysis
 
@@ -34,7 +34,7 @@ headless = true  # This file represents a page section.
 |---|---|---|---|
 | [Exploratory Data Analysis](https://www.mwbrady.com/post/exploratorydataanalysis/) | [String Formatting](https://www.mwbrady.com/post/stringformatting/) | [Git](https://www.mwbrady.com/post/git/) | [Investigating Kickstarter Campaign Trends](https://www.mwbrady.com/post/kickstarter/) |
 | [Creating Professional Visualizations](https://www.mwbrady.com/post/visualization/) | [Lambda Functions](https://www.mwbrady.com/post/lambdafunctions/) | [Spark](https://www.mwbrady.com/post/spark) | [Predicting Water Pump Failure](https://www.mwbrady.com/#) |
-| [Kernel Density Plots](https://www.mwbrady.com/post/kerneldensityplots/) | [Useful Python Built-ins](https://www.mwbrady.com/post/usefulpythonbuiltins/) | [Heroku](https://www.mwbrady.com/post/heroku/) | []() |
-| [Parallel Categories](https://www.mwbrady.com/post/parallelcategoriesvisualization/) | [Notebook Tricks](https://www.mwbrady.com/post/notebooktricks/) | [Docker](https://www.mwbrady.com/post/docker/) | []() |
-| [Survival Analysis](https://www.mwbrady.com/post/survivalanalysis/) | [DataFrame View Options](https://www.mwbrady.com/post/) | [SQL](https://www.mwbrady.com/post/sql/) | []() |
-| []() | [Creating a Python Package](https://www.mwbrady.com/post/creatingapythonpackage/) | [Regex](https://www.mwbrady.com/post/regex/) | []() |
+| [Kernel Density Plots](https://www.mwbrady.com/post/kerneldensityplots/) | [Useful Python Built-ins](https://www.mwbrady.com/post/usefulpythonbuiltins/) | [Heroku](https://www.mwbrady.com/post/heroku/) | |
+| [Parallel Categories](https://www.mwbrady.com/post/parallelcategoriesvisualization/) | [Notebook Tricks](https://www.mwbrady.com/post/notebooktricks/) | [Docker](https://www.mwbrady.com/post/docker/) |  |
+| [Survival Analysis](https://www.mwbrady.com/post/survivalanalysis/) | [DataFrame View Options](https://www.mwbrady.com/post/) | [SQL](https://www.mwbrady.com/post/sql/) | |
+|  | [Creating a Python Package](https://www.mwbrady.com/post/creatingapythonpackage/) | [Regex](https://www.mwbrady.com/post/regex/) |  |
