@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Notes"
+  url = "#blank"
+  weight = 50
+
+[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
 #  weight = 50
