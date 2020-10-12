@@ -11,7 +11,7 @@ if [ ! -d .git ]; then
   echo "ERROR: This tool is for Git repositories only."
   exit 1;
 fi
-
+Yes
 # Function to update Academic
 function install_update () {
   # Apply any updates
