@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Becoming a Data Scientist, Formerly a Strategy Consultant"
+role = "Senior Manager of Corporate Strategy at Valo Health"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -26,7 +26,9 @@ interests = [
   "Growth Strategy",
   "Business Building",
   "Machine Learning",
-  "Data Storytelling"
+  "Data Storytelling",
+  "Computational Finance",
+  "Web Development"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -83,8 +85,12 @@ interests = [
 
 +++
 
-As an associate at Innosight, I helped Fortune 500 companies identify, prioritize, and pursue growth opportunities during periods of rapid external change. Innosight seeks to drive meaningful insights by applying our unique lenses--disruptive innovation theory, jobs to be done, growth factory, and dual transformation--to client problems.
+As a Senior Manager of Corporate Strategy at Valo Health, I have the privilege of working across the organization on projects pertaining to strategy development, roadmap development, product discovery, financial planning, and corporate development. Valo is a technology company accelerating the creation of therapeutics through intelligent application of data science and machine learning. I first began working with Valo when the company has ~25 employees and have had the privilege of watching the company grow to >100 employees.
 
-During my time at Innosight I gained experience across industries spanning high-tech, healthcare, and industrial settings. In addition, to client work, I have published articles exploring aspects of corporate strategy (Harvard Business Review, IndustryWeek).
+In my prior role as an associate at Innosight, I helped Fortune 500 companies identify, prioritize, and pursue growth opportunities during periods of rapid external change. Innosight, a growth strategy consultancy founded by Clay Christensen, seeks to drive meaningful insights by applying our unique lenses--disruptive innovation theory, jobs to be done, growth factory, and dual transformation--to client problems.
+
+During my time at Innosight I gained experience across industries spanning high-tech, healthcare, and industrial settings. In addition, to client work, I have published several articles exploring aspects of corporate strategy (Harvard Business Review, IndustryWeek).
 
 I graduated summa cum laude with a concentration in computational finance from Babson College. Expanding on my interest in commercializing technology, I authored a honors thesis exploring methods to stimulate space exploration with private investment.
+
+In addition to my formal education, I have built substantial knowledge bases in data science, machine learning, and web development through remote learning programs and personal projects. I have participated in Lambda School's Data Science Immersive program, completed Coursera's AI in Medicine Concentration, and worked through Lambda School's web development curriculum. I believe continually learning and building technical depth allows me to be a more effective collaborator and communicator with product and technology teams.
