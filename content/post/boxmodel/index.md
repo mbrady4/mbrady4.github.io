@@ -10,7 +10,7 @@ authors = ["Michael W. Brady"]
 
 A pattern for positioning HTML elements on the page using CSS
 
-![./Untitled.png](The%20Box%20Model%203538c1d2a3dc45719ee619ed48bbc23c/Untitled.png)
+![The Box Model](./Untitled.png)
 
 - Content: The space within the model in which our text and images are rendered
 - Padding: The spacing between the content and border

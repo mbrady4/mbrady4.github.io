@@ -1,4 +1,12 @@
-# Reading Data
++++
+title = "Reading Data"
+
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 
 There are three ways to send data to an existing endpoint:
 
@@ -13,19 +21,19 @@ server.use(express.json());
 let hobbits = [
   {
     id: 1,
-    name: 'Bilbo Baggins',
+    name: "Bilbo Baggins",
     age: 111,
   },
   {
     id: 2,
-    name: 'Frodo Baggins',
+    name: "Frodo Baggins",
     age: 33,
   },
 ];
 let nextId = 3;
 
 // and modify the post endpoint like so:
-server.post('/hobbits', (req, res) => {
+server.post("/hobbits", (req, res) => {
   const hobbit = req.body;
   hobbit.id = nextId++;
 
@@ -44,26 +52,26 @@ To read data from body:
 
 We send information on the URL we're requesting. Structured as key/value pairs on the URL string we send to the server. Each pair takes the form of `?key=value` and pairs are separated by an `&`
 
-We can read query strings by looking at the `req.query` property: 
+We can read query strings by looking at the `req.query` property:
 
 ```jsx
-server.get('/hobbits', (req, res) => {
+server.get("/hobbits", (req, res) => {
   // query string parameters get added to req.query
-  const sortField = req.query.sortby || 'id';
+  const sortField = req.query.sortby || "id";
   const hobbits = [
     {
       id: 1,
-      name: 'Samwise Gamgee',
+      name: "Samwise Gamgee",
     },
     {
       id: 2,
-      name: 'Frodo Baggins',
+      name: "Frodo Baggins",
     },
   ];
 
   // apply the sorting
-  const response = hobbits.sort(
-    (a, b) => (a[sortField] < b[sortField] ? -1 : 1)
+  const response = hobbits.sort((a, b) =>
+    a[sortField] < b[sortField] ? -1 : 1
   );
 
   res.status(200).json(response);
