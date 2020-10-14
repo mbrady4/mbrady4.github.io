@@ -1,5 +1,12 @@
-# Component Lifecycle
++++
+title = "Component Lifecycle"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Each time we extend the React Base Class we gain access to what is called the React Component lifecycle. There are a handful of methods provided to us from the React API that allow us to tap into the lifecycle of a component. These methods provide control over when things happen during the component lifecycle.
 
 There are three phases: Mounting (Birth), updating (Growth), and un-mounting (Death).

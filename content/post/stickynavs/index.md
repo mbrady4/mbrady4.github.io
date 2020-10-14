@@ -1,5 +1,12 @@
-# Sticky Navs
++++
+title = "Sticky Navs"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 > Sticky positioning is a hybrid of relative and fixed positioning. The element is treated as relative positioned until it crosses a specified threshold, at which point it is treated as fixed positioned.
 
 With position sticky, the specified elements sticks when the viewport gets to the defined position. 

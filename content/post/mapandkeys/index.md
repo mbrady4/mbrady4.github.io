@@ -1,5 +1,12 @@
-# Map and Keys
++++
+title = "Map and Keys"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 **Be careful when iterating over arrays!!**
 
 It is a common misconception that using the index of the element in the array is an acceptable way of suppressing the error you are probably familiar with:

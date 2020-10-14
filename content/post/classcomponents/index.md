@@ -1,5 +1,12 @@
-# Classes
++++
+title = "Class Components"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Class components have been a big part of the React ecosystem because they brought a lot of functionality that we normally didn’t get with the React API when using function components. Now with hooks, that functionality is available in function components. However, a LOT of projects will still have class components in them, and we need to be prepared to work with classes when we see them.
 
 ## Class Component

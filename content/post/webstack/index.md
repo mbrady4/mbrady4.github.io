@@ -1,5 +1,12 @@
-# Web Stack
++++
+title = "Web Stack"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 ## TCP/IP
 
 **TCP/IP is a network protocol, that is, a *set of established rules* two computers have to follow to get connected over a physical network to exchange messages.** TCP/IP is composed of two different protocols covering two different layers of the OSI stack, namely the Transport (TCP) and the Network (IP) ones. **TCP/IP can be implemented on top of any physical interface (Data Link and Physical OSI layers), such as Ethernet and Wireless. Actors in a TCP/IP network are identified by a *socket*, which is a tuple made of an IP address and a port number.**

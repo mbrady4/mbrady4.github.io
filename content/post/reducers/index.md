@@ -1,5 +1,12 @@
-# Reducer
++++
+title = "Reducers"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Redux is built on the programming principle of immutability. This means  that the Redux store cannot be mutated, which will save us from running into more bugs and weird side effects, and will make it easier to reason about our code. 
 
 **Advantages of immutability**

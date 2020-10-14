@@ -1,5 +1,12 @@
-# Knex
++++
+title = "Knex"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 knex is a "batteries included" SQL query builder library, and sqlite3 allows us to interface with a sqlite database.
 
 ```sql

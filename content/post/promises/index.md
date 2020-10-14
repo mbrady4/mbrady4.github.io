@@ -1,5 +1,12 @@
-# Promises
++++
+title = "Promises"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 In JavaScript we have the concept of ‘asynchronous’ code. This simply means code that does not run instantly in line. Perhaps the code needs to wait a moment, wait for something to happen, or in the case we will explore today, wait until data comes back from a server.
 
 Asynchronous codes makes it possible for a Javascript engine to do 2 things at the same time. We can use asynchronous code to allow the browser to keep executing code while something else is happening - usually a call to an external API for data

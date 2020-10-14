@@ -1,5 +1,12 @@
-# Variables
++++
+title = "JS Variables"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 if you don't have a declaration in front of a variable, it will automatically become a global variable. 
 
 > Rule of Thumb When defining/declaring variables use const until you can’t, then use let.

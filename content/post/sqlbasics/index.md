@@ -1,5 +1,12 @@
-# SQL
++++
+title = "SQL Basics"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 A query is a SQL statement used to retrieve data from a database. Note, spaces and line enters do not matter in SQL
 
 ## `SELECT`

@@ -1,5 +1,12 @@
-# Postgres
++++
+title = "Postgres"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 [Postgres.app - the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
 
 The database has to be created in Postgres with PGAdmin versus SQLite it will create itself through a knex migration. 

@@ -1,5 +1,12 @@
-# Prototypes
++++
+title = "Prototypes"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 All objects in Javascript have a prototype property by default. This property is used as an object to attach methods and other properties that can be delegated down to other child functions/objects. 
 
 ## Constructors

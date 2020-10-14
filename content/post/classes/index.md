@@ -1,5 +1,12 @@
-# Classes
++++
+title = "Classes"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 The class keyword is what we call “syntactic sugar” on top of the object built into JavaScript and the object’s prototype system. The class keyword is not a new way of achieving object-oriented inheritance in JavaScript.
 
 > Remember that classes in JavaScript are just special functions.

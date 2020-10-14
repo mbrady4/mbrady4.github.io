@@ -1,4 +1,14 @@
-# Build from API from scratch
++++
+title = "Build an API from scratch"
+
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
+
+## Steps
 
 1. create an empty folder for our Web API, feel free to name it anything you’d like.
 2. **CD into the folder** you just created and type `npm init -y` to generate a default `package.json` file. The `-y` flag saves time by answering `yes` to all the questions that the `npm init` command would ask one at a time.

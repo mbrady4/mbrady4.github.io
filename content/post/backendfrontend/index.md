@@ -1,5 +1,12 @@
-# Backend vs. Frontend
++++
+title = "Backend vs. Frontend"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 As always, such decisions involve a trade-off between different goals, some of which conflict with each other.
 
 - Efficiency would suggest that you perform calculations in the front-end - both because that way the user's computer uses more power and your server uses less, and because the user sees faster feedback, which improves the user experience.

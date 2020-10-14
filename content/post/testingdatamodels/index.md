@@ -1,5 +1,12 @@
-# Testing Data Models
++++
+title = "Testing Data Models"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 To test the data access, we’ll write end to end tests. These types of tests run slower because they perform operations and run queries against an actual database that is similar to the one used in production.
 
 To avoid polluting the development database, we’ll use a separate database for testing. One advantage of using a dedicated testing database is that we can add and remove records without affecting the data in the development or staging databases.

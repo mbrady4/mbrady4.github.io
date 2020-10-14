@@ -1,5 +1,12 @@
-# Closures
++++
+title = "Closures"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Closure basically refers to the statement "What data do I currently have access in my program?"
 
 Functions in javascript create there own scope and every function is a closure in Javascript. 

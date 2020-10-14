@@ -1,5 +1,12 @@
-# React Router
++++
+title = "React-Router"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 React router is a declarative style routing for React applications. Routes are a way of getting to a destination. A route can specify which components to render on the page, and in what order, as we've seen before. 
 
 You install React Router with: 

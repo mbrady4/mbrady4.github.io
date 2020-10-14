@@ -1,5 +1,12 @@
-# Thinking in React
++++
+title = "Thinking in React"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 1. **Break the UI into a component hierarchy**
 
 The first thing you’ll want to do is to draw boxes around every component (and subcomponent) in the mock and give them all names.

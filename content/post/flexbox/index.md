@@ -1,5 +1,12 @@
-# Flexbox
++++
+title = "Flexbox"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Using `display: flex` invokes a whole module of options. A flex container would be an class with the property `display:flex` . Any elements found nested inside our container are now considered flex items. BUT the relationship between flex item and flex container do not go any deeper than just a single level. Any element nested inside of a flex item does not become part of the flexbox module
 
 A flexbox container has two axes: a main axis and a cross axis, which default to this: 

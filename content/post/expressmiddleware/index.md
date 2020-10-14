@@ -1,5 +1,12 @@
-# Express Middleware
++++
+title = "Express Middleware"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Middleware means functions that extend software. Used to add features to express. Most code we write, including route handlers, is middleware.
 
 Can be thought of as an array of functions that get executed in the order they are introduced into the server code.

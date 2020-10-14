@@ -1,5 +1,12 @@
-# Testing in React
++++
+title = "Testing in React"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 A function in testing may have inconvenient dependencies on other objects. To isolate the behavior of the function, it’s often desirable to replace the other objects with mocks that simulate the behavior of the real objects. Replacing objects is especially useful if the real objects are impractical to incorporate into the unit test. Simpler mocks that implement only enough behavior to execute test code are sometimes called “stubs”.
 
 For example, we can stub out (create) a fake version of a helper function called `uuid` that will replace the real one during the execution of the test. Outside of the test block, at the top level of the test file, place the following code:

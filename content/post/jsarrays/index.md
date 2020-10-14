@@ -1,5 +1,12 @@
-# Arrays
++++
+title = "JS Arrays"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Arrays have a special 0 based indexing (organizational) ability. They allow us to store data in them sequential based on 0. They are ordered values. They are mutable. 
 
 Arrays are very fast at retrieving a specific item. Searching through arrays is not very efficient. 

@@ -1,5 +1,12 @@
-# Express
++++
+title = "Express"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Express is a javascript framework that sits on top of the NodeJS Web Server. It's like React for your backend. 
 
 `npm install express`

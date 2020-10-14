@@ -1,5 +1,12 @@
-# Spacing Tips
++++
+title = "Spacing Tips"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 ## What do the block, inline, and inline-block properties do?
 
 - `block` elements expand horizontally to take up a whole line (like a heading). We can apply vertical margin to these.

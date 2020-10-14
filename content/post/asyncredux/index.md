@@ -1,5 +1,12 @@
-# Async Redux
++++
+title = "Async Redux"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 ## State machines
 
 A state machine is a model of computation or in other words is a box that keeps your state and that state changes over time. A finite state machine has a finite number of states. This type of machine accepts an input and based on that input plus the current state decides what will be the next state.

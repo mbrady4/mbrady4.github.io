@@ -1,4 +1,12 @@
-# Components and State
++++
+title = "Components and State"
+
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 
 React JS is a user interface component library. React is not a framework, it just a library that renders UI. Your entire application will live within one targeted DOM element. React will handle the rest for you.
 

@@ -1,5 +1,12 @@
-# Responsive Design
++++
+title = "Responsive Design"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 **Fixed Layouts:** What the early web looked like. CSS widths are hardcoded pixels. Design is desktop only. Horizontal scroll bar appears on smaller screens.
 
 **Fluid Layouts:** The opposite of a fixed layout is one that can expand and contract proportion to most devices. CSS widths are coded with percentages or other fluid units. The trouble with fluid is that you have to adopt one style regardless of device size. Problems include: images getting too small, buttons growing tool large, etc. on extreme screen sizes. 

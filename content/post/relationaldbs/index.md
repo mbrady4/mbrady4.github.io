@@ -1,5 +1,12 @@
-# Relational DBs
++++
+title = "Realtional DBs"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 A database is a collection of data organized for easy retrieval and manipulation. A place to store data for persistence. 
 
 ### Data Persistence

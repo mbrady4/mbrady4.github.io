@@ -1,5 +1,12 @@
-# Jest
++++
+title = "Jest"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 ### Why unit tests?
 
 Not writing tests can be thought of as taking a loan with a very high interest rate. The quick payoff is being able to write spaghetti code unhindered. The costs long term can become enormous and surpass hundreds of times over any marginal time gains obtained by not writing tests. Eventually, entire teams of developers can get so bogged down in bugs and regressions that the product can't move forward. 

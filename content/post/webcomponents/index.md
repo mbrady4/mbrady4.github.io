@@ -1,5 +1,12 @@
-# Components
++++
+title = "Web Components"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Components are: Single modular pieces of code. Usually consist of HTML, CSS, and JS. Reusable. DRY. Can stand alone. 
 
 A common practice is to have your preprocessed file named after the component. You could then import your component name into the main file. Here is an example of the import you could use and then what the file could look like:

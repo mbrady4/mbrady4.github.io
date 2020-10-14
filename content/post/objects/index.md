@@ -1,5 +1,12 @@
-# Objects
++++
+title = "JS Objects"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Objects are super powerful. In fact, you may hear this a lot: **Everything in JavaScript is an object.** Objects are used throughout almost every single part of the JavaScript Programming language.
 
 Objects in JavaScript are used as a way to store data and give the programmer access to that data when needed.

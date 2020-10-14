@@ -1,5 +1,12 @@
-# Imports and Exports
++++
+title = "Imports and Exports"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 In ES6 there are two kinds of exports:
 
 **Named exports** - for example `export function func() {}` is a named export with the name of `func`. Named modules can be imported using `import { exportName } from 'module';.` In this case, the name of the import should be the same as the name of the export. To import the func in the example, you'll have to use `import { func } from 'module';`. There can be multiple named exports in one module.

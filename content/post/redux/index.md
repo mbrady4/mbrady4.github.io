@@ -1,5 +1,12 @@
-# Redux
++++
+title = "Redux"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Redux is a predictable state management library for JavaScript applications and is the most popular State container for React applications. The core concepts of Redux are:
 
 - **The Store (Single source of truth):** Everything that changes within your application is represented by a single JavaScript object known as the store. The store contains our state for our application.

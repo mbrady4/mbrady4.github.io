@@ -1,5 +1,12 @@
-# this
++++
+title = "This"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 This is a pronoun to use in place of an object. Gives you the object's context. Nothing to do with where the function is written, but where and when the function is called.
 
 It is impossible to know what ‘this’ points to, without some execution context, or knowledge of where a function is being called. The first place to start with the this keyword is to understand where a function is called. If you know the function’s context, you may be able to deduce what the ‘this’ keyword is pointing to.

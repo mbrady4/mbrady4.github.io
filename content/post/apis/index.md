@@ -1,5 +1,12 @@
-# APIs
++++
+title = "APIs"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 An **Application Programming Interface** (API) is server software that publishes a set of endpoints that clients can use to manage resources. 
 
 An **endpoint** is a touchpoint that makes communication between two systems possible. For Web APIs, an endpoint is a URL (Uniform Resource Locator) that points to the location of a resource available on the server. 

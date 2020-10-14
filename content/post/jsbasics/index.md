@@ -1,5 +1,12 @@
-# Basics
++++
+title = "JS Basics"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 JavaScript utilizes a two-pass compiler when executing lines of code that we write. This means that anytime we run JavaScript in the browser, the browser will take two passes over our code. The first pass builds up references to all of our code, declaring variables and functions and the like. The second pass applies values to the references that were found, thus actually running the code.
 
 ### **STRICT MODE**

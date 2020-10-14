@@ -1,5 +1,12 @@
-# DBMS
++++
+title = "DBMS"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Software for creating and managing a database. The interface between the programmer and the database itself. Often abbreviated as DBMS or RDBMS (Relational Database Management Systems).
 
 SQLite stores the database within a single file. 

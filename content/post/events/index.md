@@ -1,5 +1,12 @@
-# Events
++++
+title = "Events"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Events are the way we users interact with the page. Any time there is some interaction by way of a mouse, keyboard, etc., the DOM creates and propagates an event object. This event object carries information about the event so that it may be handled at any point up the tree from the point of origin.
 
 Every user interaction with a site is an event: a click, moving the mouse, scrolling the page, pressing a key on the keyboard, these are all events on the page, and the browser can detect all of them. There are tons of different events the browser tracks. When an event happens on a page, it is known as a trigger.

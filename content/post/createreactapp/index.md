@@ -1,5 +1,12 @@
-# Create React App
++++
+title = "Create React App"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 The React team built a tool called Create React App that sets up our entire app for us. It gives us all the “boilerplate,” or necessary configuration and setup code, that we need for a React app so we can start building the app, and not spend hours on configurations.
 
 npx is a utility that was introduced in npm v 5.2.0. Here, animals is the name of the React project you want to build:

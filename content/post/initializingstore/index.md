@@ -1,5 +1,12 @@
-# Initializing the Store
++++
+title = "Initializing the Store"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Redux lets me pass the persistentState as the second argument to the createStore function, and it will override the value specified by the reducers.
 
 ```sql

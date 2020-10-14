@@ -1,5 +1,12 @@
-# Routing
++++
+title = "Routing"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Routing refers to how an application’s endpoints (URIs) respond to client requests. It is a way to map incoming requests to servers from clients to the appropriate request handler function. Based off of the URL and type of HTTP method used. Simplifies the architecture of your servers by keeping things organized and clean. Everything has a purpose. Routing helps us define our CRUD Operations within our Server side applications. 
 
 You define routing using methods of the Express app object that correspond to HTTP methods; for example, app.get() to handle GET requests and app.post to handle POST requests.

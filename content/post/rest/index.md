@@ -1,5 +1,12 @@
-# REST
++++
+title = "REST"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 REST (Representational State Transfer) is a set of principles introduced in 1999 that suggest a way of designing and distributing software.
 
 Principles of REST:

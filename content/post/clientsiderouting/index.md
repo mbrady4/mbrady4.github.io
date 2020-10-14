@@ -1,3 +1,12 @@
++++
+title = "Client-side Routing"
+
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 # Client- vs. Server-Side Routing
 
 Client-side routing is a JavaScript managed routing option. It offers control over your site and URL and content without necessarily having to wait for a server to respond with content. It is designed to mimic the appearance of traditional multi-page websites. 

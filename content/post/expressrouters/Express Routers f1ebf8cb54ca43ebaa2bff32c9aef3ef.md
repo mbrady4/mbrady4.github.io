@@ -1,5 +1,12 @@
-# Express Routers
++++
+title = "Express Routers"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Express Routers are a way to split our application into sub-applications to make it modular and easier to maintain/reason about.
 
 An Express Router behaves like a mini Express application. It can have it’s own Routing and Middleware, but it needs to exist inside of an Express application. Think of routers as organizing Express applications because you write separate pieces that can later be composed together.

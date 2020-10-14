@@ -1,5 +1,12 @@
-# Reducer Composition
++++
+title = "Reducer Composition"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Any time a function does too many things, you want to extract other functions from it, and call them so that every function only addresses a single concern.
 
 In Redux, as a matter of convention, a reducer should accept two arguments, the current state and the action being dispatched, and it should return the next state. For non-root reducers, state can be the relevant part of the state tree

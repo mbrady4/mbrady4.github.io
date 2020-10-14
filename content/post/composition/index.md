@@ -1,5 +1,12 @@
-# Composition
++++
+title = "Composition"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 Some components don’t know their children ahead of time. This is especially common for components like `Sidebar` or `Dialog` that represent generic “boxes”.
 
 We recommend that such components use the special `children` prop to pass children elements directly into their output:

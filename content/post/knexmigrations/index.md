@@ -1,5 +1,12 @@
-# Knex Migrations
++++
+title = "Knex Migrations"
 
+date = 2020-10-14T00:00:00
+lastmod = 2020-10-14T00:00:00
+draft = false
+reading_time = false
+authors = ["Michael W. Brady"]
++++
 When a schema needs to be updated, a developer must feel confident that the changes go into effect everywhere. This means schema updates on the developer’s local machine, on any testing or staging versions, on the production database, and then on any other developer’s local machines. This is where migrations come into play.
 
 A **database migration** describes changes made to the structure of a database. Migrations include things like adding new objects, adding new tables, and modifying existing objects or tables.
